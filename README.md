@@ -1,5 +1,7 @@
 안태진
+
 Mobile App Developer
+
 Flutter, Android Studio, R, Python
 
 1996.01.30
