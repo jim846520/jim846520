@@ -30,4 +30,7 @@
 "><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&Color=white"/></a>
 <img src="https://img.shields.io/badge/gajim1139@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/>
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jim846520)](https://github.com/jim846520/github-readme-stats) 
+ 
+  
 </div>
